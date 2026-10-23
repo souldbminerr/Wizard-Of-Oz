@@ -1,2 +1,4 @@
 # Wizard-Of-Oz
-Switch2 Reliable Userland exploit
+Switch2 Reliable Userland exploit/homebrew toolchain
+
+Soon(tm)
